@@ -97,6 +97,3 @@ Docker (Optional):
 Create a Dockerfile and build the Docker image.
 Contributions
 Contributions are welcome! Feel free to submit issues, feature requests, or pull requests.
-
-License
-This project is licensed under the MIT License.
